@@ -4,7 +4,7 @@
 
 ### AI 应用开发工程师 · 全栈方向
 
-🐝 **Little Bee V2** 作者 | 2026 届应届生 | 洛阳师范学院 · 软件工程
+🐝 **Little Bee V2** 作者 | 2026 届应届生
 
 [![Website](https://img.shields.io/badge/官网-newlbee.xyz-6c5ce7?style=flat-square)](http://www.newlbee.xyz)
 [![CSDN](https://img.shields.io/badge/CSDN-技术博客-fc5531?style=flat-square)](https://blog.csdn.net/weixin_74225455)
