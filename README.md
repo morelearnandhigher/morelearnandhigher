@@ -1,101 +1,72 @@
 <div align="center">
 
-# 梁腾彪 | Tengbiao Liang
+<img src="assets/default-avatar.png" width="120" alt="Little Bee">
 
-### AI 应用开发工程师 · 全栈方向
+### AI 应用开发 / 全栈开发
 
-🐝 **Little Bee V2** 作者 | 2026 届应届生
+<sub>全栈开发 · LoRA 微调 · 工作流搭建</sub>
 
-[![Website](https://img.shields.io/badge/官网-newlbee.xyz-6c5ce7?style=flat-square)](http://www.newlbee.xyz)
-[![CSDN](https://img.shields.io/badge/CSDN-技术博客-fc5531?style=flat-square)](https://blog.csdn.net/weixin_74225455)
-[![Email](https://img.shields.io/badge/邮箱-863193306@qq.com-168de2?style=flat-square)](mailto:863193306@qq.com)
+<br>
+
+[![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-www.newlbee.xyz-8b5cf6?style=flat-square&labelColor=18181b&logo=googlechrome&logoColor=white)](http://www.newlbee.xyz)
+[![邮箱](https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-863193306%40qq.com-EA4335?style=flat-square&labelColor=18181b&logo=gmail&logoColor=white)](mailto:863193306@qq.com)
+[![电话](https://img.shields.io/badge/%E7%94%B5%E8%AF%9D-18339592107_%E5%BE%AE%E4%BF%A1%E5%90%8C%E5%8F%B7-07C160?style=flat-square&labelColor=18181b&logo=wechat&logoColor=white)](tel:18339592107)
 
 </div>
 
 ---
 
-## 🚀 Little Bee V2 — AI 创作桌面工具
+## 关于我
 
-> 一款面向内容创作者的 AI 桌面应用，集成多模态大模型，实现图片生成、视频创作、智能助手、多平台自动发布。
-> 独立完成从技术选型、架构设计到部署上线的全链路开发，已上线商业运营。
+熟悉 AIGC 创作类产品的开发全流程，能独立完成产品开发。
 
-**官网**：[http://www.newlbee.xyz](http://www.newlbee.xyz)
-
-### ✨ 核心功能
-
-| 功能 | 说明 |
-|------|------|
-| 🎨 **AI 多模态创作** | 接入阿里云 DashScope，支持图片生成（wan/qwen/z-image 系列 7 种模型，最高 4K）、视频生成（通义万相 wanx + HappyHorse）、多模态视觉理解（Qwen3.7 VL 图片/视频分析 + 提示词反推） |
-| 🤖 **Agent 智能编排** | 基于 LangChain + Tool 机制，意图识别 → 自动路由 → 多步流水线，自然语言触发全自动化创作流程 |
-| 📤 **多平台自动发布** | Playwright 驱动，支持抖音/快手/B站三大平台自动发布 + 养号，BehaviorSim 模拟真人操作规避风控 |
-| 🔐 **一机一码授权** | 硬件指纹（MAC + CPU + 磁盘序列号 → SHA-256）、HMAC 签名防篡改、4 层存储交叉验证、Cloudflare Worker 远程核销 |
-| 🏗️ **全栈部署** | Cloudflare Pages + Workers/KV + 腾讯云轻量服务器（宝塔 + Docker）+ GitHub Actions CI/CD |
-| 🛒 **商业运营** | 独角数卡发卡 + V免签（PHP 云免签）全自动收款，买断制定价（标准版/Pro版/周卡）|
-
-### 📸 产品截图
-
-<details open>
-<summary><b>🖥️ AI 智能助手 · Agent 对话</b></summary>
-<img src="screenshots/agent-chat.png" alt="Agent Chat" width="100%">
-</details>
-
-<details>
-<summary><b>🎨 图片创作</b></summary>
-<img src="screenshots/image-gen.png" alt="Image Generation" width="100%">
-</details>
-
-<details>
-<summary><b>🎬 视频创作</b></summary>
-<img src="screenshots/video-gen.png" alt="Video Creation" width="100%">
-</details>
-
-<details>
-<summary><b>⚙️ 创作工作流 · Agent 编排</b></summary>
-<img src="screenshots/workflow.png" alt="Workflow" width="100%">
-</details>
-
-<details>
-<summary><b>📤 多平台发布</b></summary>
-<img src="screenshots/publish.png" alt="Publish" width="100%">
-</details>
-
-<details>
-<summary><b>🌐 产品官网</b></summary>
-<img src="screenshots/website.png" alt="Website" width="100%">
-</details>
-
-<details>
-<summary><b>📋 系统模式介绍</b></summary>
-<img src="screenshots/features.png" alt="Features" width="100%">
-</details>
-
-### 🛠 技术栈
-
-`TypeScript` `Vue3` `Electron` `Node.js` `LangChain` `Cloudflare Workers` `Docker` `Playwright` `PostgreSQL` `MySQL` `Redis` `GitHub Actions`
+- **全栈开发** — 桌面端、Web、移动端全链路独立交付
+- **自动化** — 熟悉 Playwright 框架，能针对多平台做自动化程序
+- **LoRA 微调** — Z-Image、Krea2 等开源图片模型的训练与调优
+- **工作流搭建** — ComfyUI 画布工作流，视频换人、动作迁移
 
 ---
 
-## 💼 实习经历
+## 作品
 
-- **豆神教育**（2025.10 - 2026.01）— AI Prompt 实习生，纯 Prompt 驱动 AI 完成英语课件与互动游戏开发
-- **绿雪智能**（2025.05 - 2025.10）— 前端开发实习生，负责 AI 自媒体系统的前后端开发与多平台自动化发布
+### Little Bee V2 · 桌面端
+
+桌面端 AIGC 创作工具。一个窗口搞定创作、发布和运营 —— AI 助手对话即创作，复杂任务自己拆解、并发执行；图片、视频、语音、换人迁移都能通过与 AI 对话实现，30+ 模型直连、按量付费。
+
+自动发布支持国内主流视频平台：抖音、快手、B 站、小红书、视频号。Agent 编排发布任务严谨 —— 单平台多账号这类账号运营任务，除用户指定外，会保证同平台一条视频只进一个账号。
+
+### Little Bee Studio · Web 端
+
+网页版在线工具，免安装。图片生成与编辑、Wan 3.0 视频，还有视频换人 / 动作迁移 —— 保留原片场景和声音只换人，或者只搬动作、背景穿搭用角色图。账号、额度、订阅和桌面端打通。
+
+> **Little Bee 桌面端现已免费开放。** 2026 年 7 月上线以来，7–9 月共售出 **42 份**；这 42 位用户的邮箱账号，无论 Studio 注册与否，初始积分都是 **1000 起**。由衷感谢你们给了我希望。
 
 ---
 
-## 🤝 关于我
+## 技术栈
 
-- 🎓 洛阳师范学院软件工程 2026 届本科应届生
-- 🐝 独立开发并上线商业 AI 桌面应用 Little Bee V2
-- 📝 热爱技术写作，CSDN 发布多篇原创文章
-- 📍 期望工作城市：北京
-- 💡 求职方向：AI 应用开发 / 全栈工程师 / 前端开发
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-1f1f1f?style=flat-square&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 ---
 
 <div align="center">
 
-**🔗 链接**
+<img src="assets/bee-icon.png" width="28" alt="Little Bee">
 
-[🌐 Little Bee 官网](http://www.newlbee.xyz) · [📝 CSDN 技术博客](https://blog.csdn.net/weixin_74225455) · [📧 863193306@qq.com](mailto:863193306@qq.com)
+<sub><a href="http://www.newlbee.xyz">www.newlbee.xyz</a></sub>
 
 </div>
