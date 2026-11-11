@@ -29,13 +29,13 @@
 
 ## 作品
 
-### Little Bee V2 · 桌面端
+### <img src="assets/default-avatar.png" width="26" alt="Little Bee V2" style="vertical-align:-4px"> Little Bee V2 · 桌面端
 
 桌面端 AIGC 创作工具。一个窗口搞定创作、发布和运营 —— AI 助手对话即创作，复杂任务自己拆解、并发执行；图片、视频、语音、换人迁移都能通过与 AI 对话实现，30+ 模型直连、按量付费。
 
 自动发布支持国内主流视频平台：抖音、快手、B 站、小红书、视频号。Agent 编排发布任务严谨 —— 单平台多账号这类账号运营任务，除用户指定外，会保证同平台一条视频只进一个账号。
 
-### Little Bee Studio · Web 端
+### <img src="assets/bee-icon.png" width="26" alt="Little Bee Studio" style="vertical-align:-4px"> Little Bee Studio · Web 端
 
 网页版在线工具。MiniMax H3 视频生成全系列，视频换人 / 动作迁移。同样的模型，对比即梦、LiblibAI 等主流 AIGC 产品更便宜。
 
